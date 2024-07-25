@@ -155,7 +155,7 @@ main {
   }
 }
 
-@media screen and (width <= 1000px) {
+@media screen and (width <= 1550px) {
   main {
     grid-template-rows: auto;
     grid-template-columns: auto;
