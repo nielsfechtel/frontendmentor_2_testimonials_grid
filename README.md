@@ -2,7 +2,7 @@
 
 Hi, Niels here.
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
-[Hosted on GH Pages](https://nielsfechtel.github.io/frontendmentor_2_four_cards/).
+[Hosted on GH Pages](https://nielsfechtel.github.io/frontendmentor_2_testimonials_grid/).
 
 ## Table of contents
 
